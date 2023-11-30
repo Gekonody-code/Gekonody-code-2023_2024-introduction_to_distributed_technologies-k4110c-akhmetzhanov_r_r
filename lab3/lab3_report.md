@@ -5,7 +5,7 @@ Year: 2023/2024
 Group: K4110c
 Author: Akhmetzhanov Renat Ruslanovich
 Lab: Lab3
-Date of create: 22.10.2023
+Date of create: 22.11.2023
 Date of finished: 
 
 University: [ITMO University](https://itmo.ru/ru/)  
