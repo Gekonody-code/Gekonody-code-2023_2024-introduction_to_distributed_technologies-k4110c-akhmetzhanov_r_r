@@ -1,22 +1,13 @@
-University: [ITMO University](https://itmo.ru/ru/)
-Faculty: [FICT](https://fict.itmo.ru)
-Course: [Introduction to distributed technologies](https://github.com/itmo-ict-faculty/introduction-to-distributed-technologies)
-Year: 2023/2024
-Group: K4110c
-Author: Akhmetzhanov Renat Ruslanovich
-Lab: Lab3
-Date of create: 22.11.2023
-Date of finished: 
+University: [ITMO University](https://itmo.ru/ru/) <br>
+Faculty: [FICT](https://fict.itmo.ru)<br>
+Course: [Introduction to distributed technologies](https://github.com/itmo-ict-faculty/introduction-to-distributed-technologies)<br>
+Year: 2023/2024<br>
+Group: K4110c<br>
+Author: Akhmetzhanov Renat Ruslanovich<br>
+Lab: Lab3<br>
+Date of create: 22.11.2023<br>
+Date of finished: <br>
 
-University: [ITMO University](https://itmo.ru/ru/)  
-Faculty: [FICT](https://fict.itmo.ru)  
-Course: [Introduction to distributed technologies](https://github.com/itmo-ict-faculty/introduction-to-distributed-technologies)  
-Year: 2023/2024  
-Group: K4111c  
-Author: Kachmazov Artur<br>
-Lab: Lab3  
-Date of create: 01.11.2023  
-Date of finished:
 
 **1. Создаём ConfigMap со значениями переменных.** 
 ConfigMap — это объект Kubernetes, который используется для хранения несекретных данных в паре «ключ-значение». Поды могут использовать их как переменные окружения или как файлы конфигурации в Volume.<br>

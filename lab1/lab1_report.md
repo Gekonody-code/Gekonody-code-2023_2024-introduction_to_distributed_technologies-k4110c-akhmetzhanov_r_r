@@ -1,12 +1,12 @@
-University: [ITMO University](https://itmo.ru/ru/)
-Faculty: [FICT](https://fict.itmo.ru)
+University: [ITMO University](https://itmo.ru/ru/) <br>
+Faculty: [FICT](https://fict.itmo.ru) <br>
 Course: [Introduction to distributed technologies](https://github.com/itmo-ict-faculty/introduction-to-distributed-technologies)
-Year: 2023/2024
-Group: K4110c
-Author: Akhmetzhanov Renat Ruslanovich
-Lab: Lab1
-Date of create: 15.10.2023
-Date of finished: 
+Year: 2023/2024 <br>
+Group: K4110c <br>
+Author: Akhmetzhanov Renat Ruslanovich <br>
+Lab: Lab1 <br>
+Date of create: 15.10.2023 <br>
+Date of finished:  <br>
 
 
 1.Устанавливаем и запускаем minikube.
